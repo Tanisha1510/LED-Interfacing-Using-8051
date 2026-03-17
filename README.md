@@ -16,7 +16,10 @@ o	Resistor (330Ω)</br>
 o	Ground (GND) connection</br>
 3.	Connect the LED's anode to P1.0 of the microcontroller through a 330Ω resistor.</br>
 4.	Connect the cathode of the LED to GND.</br>
-5.	Save the design and proceed to programming in Keil.</br>
+5.	Save the design and proceed to programming in Keil.</br
+														   >
+## Circuit Diagram:
+<img width="1920" height="1200" alt="Screenshot 2026-03-16 110357" src="https://github.com/user-attachments/assets/8f06867c-99ca-439a-8a85-90af14c2cfd8" />
 
 ## Algorithm:
 1.	Configure P1.0 as an output port.</br>
@@ -48,7 +51,8 @@ while(1)
 }
 ```
 ## Output:
-
+<img width="1920" height="1200" alt="Screenshot 2026-03-16 105959" src="https://github.com/user-attachments/assets/83555574-2b9d-4514-a739-2c7a09413aaf" />
+<img width="1920" height="1200" alt="Screenshot 2026-03-16 110410" src="https://github.com/user-attachments/assets/d9954ae7-6868-436c-9b84-77bffa42d6c1" />
 
 ## Result:
 The LED interfacing with the 8051 microcontroller has been successfully implemented and simulated using Keil and Proteus.
